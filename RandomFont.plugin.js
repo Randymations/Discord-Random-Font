@@ -1,4 +1,4 @@
-//META{"name":"RandomFont","authorId":"384167892012498944","website":"https://github.com/Randymations"}*//
+//META{"name":"RandomFont","authorId":"384167892012498944","website":"https://github.com/Randymations", "source":"https://github.com/Randymations/Discord-Random-Font"}*//
 
 /*@cc_on
 @if (@_jscript)
